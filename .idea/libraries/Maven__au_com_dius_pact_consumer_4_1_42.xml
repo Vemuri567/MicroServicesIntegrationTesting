@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: au.com.dius.pact:consumer:4.1.42">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/au/com/dius/pact/consumer/4.1.42/consumer-4.1.42.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/au/com/dius/pact/consumer/4.1.42/consumer-4.1.42-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/au/com/dius/pact/consumer/4.1.42/consumer-4.1.42-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
